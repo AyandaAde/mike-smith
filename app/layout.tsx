@@ -20,7 +20,7 @@ export default function RootLayout({
       <Script src="https://kit.fontawesome.com/1dce5cdcc1.js" />
       <ThemeProvider
         attribute="class"
-        defaultTheme="system"
+        defaultTheme="dark"
         enableSystem
         disableTransitionOnChange
       >

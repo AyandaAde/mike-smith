@@ -13,7 +13,9 @@
   .social_icons {
     position: fixed;
     bottom: 1rem;
-    left: 1rem;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 40px;
 
     a {
       padding: 0.4rem;
