@@ -74,7 +74,7 @@
     padding: 0;
   }
   body {
-    @apply bg-foreground text-secondary h-screen;
+    @apply bg-foreground text-primary h-screen;
     font-family: "Segoe UI, Tahoma, Geneva, Verdana, sans-serif";
     line-height: 1;
   }
@@ -84,7 +84,7 @@
     font-weight: 400;
   }
   a {
-    @apply text-secondary;
+    @apply text-primary;
     text-decoration: none;
   }
 
@@ -101,6 +101,6 @@
     width: 100%;
     text-align: center;
     padding-bottom: 10px;
-    @apply text-secondary;
+    @apply text-primary;
   }
 }
